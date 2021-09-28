@@ -1,4 +1,5 @@
 #!/bin/bash
+#hola que tal put0 el que lo lea
 rep=1000000
 for ((int i = 0; i <$rep; i++)){
     do
